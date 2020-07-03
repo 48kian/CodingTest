@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b97997d8-6770-491e-bc79-6db98e958a29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/changeWord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/targetNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/travelRoute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/Sort/kthNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/Sort/kthNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLBasic.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sort/kthNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dataStructureBasic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonBasic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/changeWord.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/targetNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/travelRoute.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dtYYY5m8cIE6Ec2wKfQPF3qUtB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/프로그래머스/Sort/가장큰수" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b97997d8-6770-491e-bc79-6db98e958a29" name="Default Changelist" comment="" />
+      <created>1593245904673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593245904673</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1593749254593">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593749254593" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1593749256545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1593749256545" />
+    <state x="474" y="177" key="refactoring.ChangeSignatureDialog" timestamp="1593248606943">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="474" y="177" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1593248606943" />
+  </component>
+</project>
