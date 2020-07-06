@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("a");
 
-        int[] numbers = {6, 10, 2};
+        int[] numbers = {3, 30, 34, 5, 9};
 
         BiggestNum biggestNum = new BiggestNum();
         for(int i = 0; i<3; i++){

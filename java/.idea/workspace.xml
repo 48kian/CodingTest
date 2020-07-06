@@ -19,22 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b97997d8-6770-491e-bc79-6db98e958a29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/changeWord.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/targetNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/DFS,BFS/travelRoute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/Sort/kthNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/프로그래머스/Sort/kthNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLBasic.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/kthNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dataStructureBasic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonBasic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/changeWord.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/network.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/targetNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../프로그래머스/DFS,BFS/travelRoute.py" beforeDir="false" />
-    </list>
+    <list default="true" id="b97997d8-6770-491e-bc79-6db98e958a29" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +48,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/프로그래머스/Sort/가장큰수" />
@@ -110,10 +97,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1593749254593">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="600" y="219" key="FileChooserDialogImpl" timestamp="1593932360445">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593749254593" />
+    <state x="600" y="219" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1593932360445" />
     <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1593749256545">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
